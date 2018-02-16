@@ -1,5 +1,5 @@
 {
-  "name": "purescript-unlift",
+  "name": "purescript-monad-unlift",
   "ignore": [
     "**/.*",
     "node_modules",
